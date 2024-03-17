@@ -1,0 +1,11 @@
+Source: dl-guy
+Section: utils
+Priority: important
+Maintainer: Alexander Krefting <kakrefting@gmail.com>
+Build-Depends: debhelper-compat (= 12)
+
+Package: dl-guy
+Architecture: all
+Depends: python3
+Description: Downlaod Tool
+ An alternative Tool to curl and wget
